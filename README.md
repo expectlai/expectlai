@@ -2,8 +2,7 @@
 - 👀 I’m interested in coding and computer science.
 - 🌱 I’m currently learning Competitive Programing and Information Security
 - 📫 How to reach me:
-Disocrd: laiyuchi#3849 \n
-Gmail: expectlai@gmail.com
+Disocrd: laiyuchi#3849、Gmail: expectlai@gmail.com
 
 <!---
 expectlai/expectlai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
