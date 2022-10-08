@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and computer science.
 - 🌱 I’m currently learning Competitive Programing and Information Security
 - 📫 How to reach me:
-Disocrd: laiyuchi#3849
+Disocrd: laiyuchi#3849 \n
 Gmail: expectlai@gmail.com
 
 <!---
